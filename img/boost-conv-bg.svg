@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="758px" height="493px" viewBox="0 0 758 493" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>boost-conv-bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M126.272335,425.165772 C93.982873,388.417678 73.6671826,356.705476 65.3252635,330.029168 C19.0723915,182.118853 44.1320505,58.930478 118.186994,24.5051209 C149.179005,10.0981012 196.020275,-7.23646303 240.488458,3.17074642 C281.048416,12.6632856 301.165419,60.8325654 429.469777,82.2426684 C492.864198,92.8212731 634.734593,45.5084543 694.47556,82.2426684 C716.40592,95.7274608 754.126599,143.452757 757.658947,212.871995 C758.664104,232.625777 750.166103,265.260691 732.164942,310.776737 L126.272335,425.165772 Z" id="path-1"></path>
+        <pattern id="pattern-2" width="27.6470588" height="27.6470588" x="14.3529412" y="-27.6470588" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-3" transform="scale(0.575980392,0.575980392)"></use>
+        </pattern>
+        <image id="image-3" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAEGWlDQ1BrQ0dDb2xvclNwYWNlR2VuZXJpY1JHQgAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VQNcC+8AAAFFSURBVGgF7djbDYMwDAXQBjEMYqyqY1WMxTppLiJIQIA8ariWkp8IPuweO60am67r7MstY8wwjuPH7dMz3uUua63p+/7r9rePIRW/9QmQzCV9ub0YgSIgzhxvQkjFb1EZBAdEKolkfJTqtnb7bv/zOJm58moRE0AzYgFoRawAGhE7gDZEEKAJcQjQgjgFaEBcAtgRUQBmRDSAFZEEYEQkA9gQWQAmRDaABVEEYEAUAx5H4EaGOyw+SMl66mbXzNOD4k6gCPNUY/CFwF1YOn5zRxJJRINqaUbUuZA/79sd3wm3xIdbdS60rXzo2XVCbO60/HxKJgFKKv4CkEziuyKBWAE0InYAbYggQBPiEKAFcQrQgLgEsCOiAMyIaAArIgnAiEgGsCGyAEyIbAALogjAgCgGPI7AX9w6F3JtqHMhnMWLFSrSD9jOnakVHpZYAAAAAElFTkSuQmCC"></image>
+    </defs>
+    <g id="[current]-Landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chatchamp-" transform="translate(-341.000000, -5273.000000)">
+            <g id="CTA" transform="translate(341.000000, 5273.000000)">
+                <g id="boost-conv-bg">
+                    <g id="bg" transform="translate(399.869342, 212.582886) scale(-1, 1) translate(-399.869342, -212.582886) ">
+                        <use fill="#FFF9D3" xlink:href="#path-1"></use>
+                        <use fill-opacity="0.1" fill="url(#pattern-2)" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="dots" transform="translate(88.000000, 405.500000) scale(-1, 1) translate(-88.000000, -405.500000) translate(0.000000, 318.000000)" fill="#02A79D" opacity="0.320145089">
+                        <circle id="Oval-2" cx="98" cy="173" r="2"></circle>
+                        <circle id="Oval-2" cx="117" cy="173" r="2"></circle>
+                        <circle id="Oval-2" cx="98" cy="154" r="2"></circle>
+                        <circle id="Oval-2" cx="117" cy="154" r="2"></circle>
+                        <circle id="Oval-2" cx="136" cy="154" r="2"></circle>
+                        <circle id="Oval-2" cx="155" cy="154" r="2"></circle>
+                        <circle id="Oval-2" cx="174" cy="154" r="2"></circle>
+                        <circle id="Oval-2" cx="136" cy="173" r="2"></circle>
+                        <circle id="Oval-2" cx="155" cy="173" r="2"></circle>
+                        <circle id="Oval-2" cx="174" cy="173" r="2"></circle>
+                        <circle id="Oval-2" cx="3" cy="135" r="2"></circle>
+                        <circle id="Oval-2" cx="22" cy="135" r="2"></circle>
+                        <circle id="Oval-2" cx="41" cy="135" r="2"></circle>
+                        <circle id="Oval-2" cx="60" cy="135" r="2"></circle>
+                        <circle id="Oval-2" cx="79" cy="135" r="2"></circle>
+                        <circle id="Oval-2" cx="98" cy="135" r="2"></circle>
+                        <circle id="Oval-2" cx="117" cy="135" r="2"></circle>
+                        <circle id="Oval-2" cx="136" cy="135" r="2"></circle>
+                        <circle id="Oval-2" cx="155" cy="135" r="2"></circle>
+                        <circle id="Oval-2" cx="174" cy="135" r="2"></circle>
+                        <circle id="Oval-2" cx="3" cy="116" r="2"></circle>
+                        <circle id="Oval-2" cx="22" cy="116" r="2"></circle>
+                        <circle id="Oval-2" cx="41" cy="116" r="2"></circle>
+                        <circle id="Oval-2" cx="60" cy="116" r="2"></circle>
+                        <circle id="Oval-2" cx="79" cy="116" r="2"></circle>
+                        <circle id="Oval-2" cx="98" cy="116" r="2"></circle>
+                        <circle id="Oval-2" cx="117" cy="116" r="2"></circle>
+                        <circle id="Oval-2" cx="136" cy="116" r="2"></circle>
+                        <circle id="Oval-2" cx="155" cy="116" r="2"></circle>
+                        <circle id="Oval-2" cx="174" cy="116" r="2"></circle>
+                        <circle id="Oval-2" cx="2" cy="97" r="2"></circle>
+                        <circle id="Oval-2" cx="21" cy="97" r="2"></circle>
+                        <circle id="Oval-2" cx="40" cy="97" r="2"></circle>
+                        <circle id="Oval-2" cx="59" cy="97" r="2"></circle>
+                        <circle id="Oval-2" cx="78" cy="97" r="2"></circle>
+                        <circle id="Oval-2" cx="97" cy="97" r="2"></circle>
+                        <circle id="Oval-2" cx="116" cy="97" r="2"></circle>
+                        <circle id="Oval-2" cx="135" cy="97" r="2"></circle>
+                        <circle id="Oval-2" cx="154" cy="97" r="2"></circle>
+                        <circle id="Oval-2" cx="173" cy="97" r="2"></circle>
+                        <circle id="Oval-2" cx="2" cy="78" r="2"></circle>
+                        <circle id="Oval-2" cx="21" cy="78" r="2"></circle>
+                        <circle id="Oval-2" cx="40" cy="78" r="2"></circle>
+                        <circle id="Oval-2" cx="59" cy="78" r="2"></circle>
+                        <circle id="Oval-2" cx="78" cy="78" r="2"></circle>
+                        <circle id="Oval-2" cx="97" cy="78" r="2"></circle>
+                        <circle id="Oval-2" cx="116" cy="78" r="2"></circle>
+                        <circle id="Oval-2" cx="2" cy="59" r="2"></circle>
+                        <circle id="Oval-2" cx="21" cy="59" r="2"></circle>
+                        <circle id="Oval-2" cx="40" cy="59" r="2"></circle>
+                        <circle id="Oval-2" cx="59" cy="59" r="2"></circle>
+                        <circle id="Oval-2" cx="78" cy="59" r="2"></circle>
+                        <circle id="Oval-2" cx="97" cy="59" r="2"></circle>
+                        <circle id="Oval-2" cx="116" cy="59" r="2"></circle>
+                        <circle id="Oval-2" cx="2" cy="40" r="2"></circle>
+                        <circle id="Oval-2" cx="21" cy="40" r="2"></circle>
+                        <circle id="Oval-2" cx="40" cy="40" r="2"></circle>
+                        <circle id="Oval-2" cx="59" cy="40" r="2"></circle>
+                        <circle id="Oval-2" cx="78" cy="40" r="2"></circle>
+                        <circle id="Oval-2" cx="97" cy="40" r="2"></circle>
+                        <circle id="Oval-2" cx="116" cy="40" r="2"></circle>
+                        <circle id="Oval-2" cx="2" cy="21" r="2"></circle>
+                        <circle id="Oval-2" cx="21" cy="21" r="2"></circle>
+                        <circle id="Oval-2" cx="40" cy="21" r="2"></circle>
+                        <circle id="Oval-2" cx="59" cy="21" r="2"></circle>
+                        <circle id="Oval-2" cx="78" cy="21" r="2"></circle>
+                        <circle id="Oval-2" cx="97" cy="21" r="2"></circle>
+                        <circle id="Oval-2" cx="116" cy="21" r="2"></circle>
+                        <circle id="Oval-2" cx="2" cy="2" r="2"></circle>
+                        <circle id="Oval-2" cx="21" cy="2" r="2"></circle>
+                        <circle id="Oval-2" cx="40" cy="2" r="2"></circle>
+                        <circle id="Oval-2" cx="59" cy="2" r="2"></circle>
+                        <circle id="Oval-2" cx="78" cy="2" r="2"></circle>
+                        <circle id="Oval-2" cx="97" cy="2" r="2"></circle>
+                        <circle id="Oval-2" cx="116" cy="2" r="2"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

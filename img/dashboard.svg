@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>dashboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="[current]-Landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chatchamp-" transform="translate(-242.000000, -4490.000000)">
+            <g id="section-7" transform="translate(242.000000, 4145.000000)">
+                <g id="features" transform="translate(0.000000, 98.000000)">
+                    <g id="dashboard" transform="translate(0.000000, 247.000000)">
+                        <g>
+                            <path d="M8.36352,-2.13162821e-14 L41.63648,-2.30926389e-14 C46.2555246,-2.39411436e-14 50,3.74447545 50,8.36352 L50,41.63648 C50,46.2555246 46.2555246,50 41.63648,50 L8.36352,50 C3.74447545,50 -3.73695801e-13,46.2555246 -3.78364007e-13,41.63648 L-3.78364007e-13,8.36352 C-3.78929677e-13,3.74447545 3.74447545,-2.22441342e-14 8.36352,-2.30926389e-14 Z" id="bg" fill="#ECEEF1"></path>
+                            <g id="icon" transform="translate(13.000000, 13.000000)">
+                                <polyline id="Line-5" stroke="#A1A8B3" stroke-width="0.9" stroke-linecap="square" points="0.446428571 0.446428571 0.446428571 24.5535714 24.5535714 24.5535714"></polyline>
+                                <rect id="Rectangle-18" fill="#A1A8B3" x="3.57142857" y="6.25" width="2.67857143" height="15.1785714" rx="0.9"></rect>
+                                <rect id="Rectangle-18" fill="#A1A8B3" x="8.03571429" y="9.82142857" width="2.67857143" height="11.6071429" rx="0.9"></rect>
+                                <rect id="Rectangle-18" fill="#A1A8B3" x="12.5" y="12.5" width="2.67857143" height="8.92857143" rx="0.9"></rect>
+                                <rect id="Rectangle-18" fill="#A1A8B3" x="16.9642857" y="16.0714286" width="2.67857143" height="5.35714286" rx="0.9"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

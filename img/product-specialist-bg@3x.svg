@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="332px" height="180px" viewBox="0 0 332 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>product-specialist-bg@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="[current]-Landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chatchamp-" transform="translate(-868.000000, -4738.000000)">
+            <g id="product-specialist" transform="translate(243.000000, 4738.000000)">
+                <g id="product-specialist-bg" transform="translate(625.000000, -38.000000)">
+                    <path d="M318.979401,234.022738 L54.0338099,234.022738 C39.737377,207.449389 33.9411443,187.775467 36.6451119,175.000972 C46.9950313,126.104309 100.690676,108.669529 116.577732,107.0984 C166.439029,102.167434 222.676611,118.590368 238.073944,111.670757 C261.478147,101.152832 274.379825,88.0758841 290.32981,88.0758841 C300.963133,88.0758841 313.560381,94.4167227 328.121553,107.0984 C343.326764,131.738328 350.929369,151.126975 350.929369,165.26434 C350.929369,179.401705 340.27938,202.321171 318.979401,234.022738 Z" id="bg" fill="#F8F9FB"></path>
+                    <g id="dots" transform="translate(69.000000, 59.000000) scale(1, -1) translate(-69.000000, -59.000000) " fill="#FFDB00">
+                        <circle id="Oval-2" cx="3" cy="78" r="2"></circle>
+                        <circle id="Oval-2" cx="22" cy="78" r="2"></circle>
+                        <circle id="Oval-2" cx="41" cy="78" r="2"></circle>
+                        <circle id="Oval-2" cx="60" cy="78" r="2"></circle>
+                        <circle id="Oval-2" cx="79" cy="78" r="2"></circle>
+                        <circle id="Oval-2" cx="98" cy="78" r="2"></circle>
+                        <circle id="Oval-2" cx="117" cy="78" r="2"></circle>
+                        <circle id="Oval-2" cx="136" cy="78" r="2"></circle>
+                        <circle id="Oval-2" cx="3" cy="59" r="2"></circle>
+                        <circle id="Oval-2" cx="22" cy="59" r="2"></circle>
+                        <circle id="Oval-2" cx="41" cy="59" r="2"></circle>
+                        <circle id="Oval-2" cx="60" cy="59" r="2"></circle>
+                        <circle id="Oval-2" cx="79" cy="59" r="2"></circle>
+                        <circle id="Oval-2" cx="98" cy="59" r="2"></circle>
+                        <circle id="Oval-2" cx="117" cy="59" r="2"></circle>
+                        <circle id="Oval-2" cx="136" cy="59" r="2"></circle>
+                        <circle id="Oval-2" cx="2" cy="40" r="2"></circle>
+                        <circle id="Oval-2" cx="21" cy="40" r="2"></circle>
+                        <circle id="Oval-2" cx="40" cy="40" r="2"></circle>
+                        <circle id="Oval-2" cx="59" cy="40" r="2"></circle>
+                        <circle id="Oval-2" cx="78" cy="40" r="2"></circle>
+                        <circle id="Oval-2" cx="97" cy="40" r="2"></circle>
+                        <circle id="Oval-2" cx="116" cy="40" r="2"></circle>
+                        <circle id="Oval-2" cx="135" cy="40" r="2"></circle>
+                        <circle id="Oval-2" cx="2" cy="21" r="2"></circle>
+                        <circle id="Oval-2" cx="21" cy="21" r="2"></circle>
+                        <circle id="Oval-2" cx="40" cy="21" r="2"></circle>
+                        <circle id="Oval-2" cx="59" cy="21" r="2"></circle>
+                        <circle id="Oval-2" cx="78" cy="21" r="2"></circle>
+                        <circle id="Oval-2" cx="2" cy="2" r="2"></circle>
+                        <circle id="Oval-2" cx="21" cy="2" r="2"></circle>
+                        <circle id="Oval-2" cx="40" cy="2" r="2"></circle>
+                        <circle id="Oval-2" cx="59" cy="2" r="2"></circle>
+                        <circle id="Oval-2" cx="78" cy="2" r="2"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

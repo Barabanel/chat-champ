@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>smart-segmentation</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="[current]-Landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chatchamp-" transform="translate(-999.000000, -4490.000000)">
+            <g id="section-7" transform="translate(242.000000, 4145.000000)">
+                <g id="features" transform="translate(0.000000, 98.000000)">
+                    <g id="segmentation" transform="translate(757.000000, 247.000000)">
+                        <g id="smart-segmentation">
+                            <path d="M8.36352,-2.13162821e-14 L41.63648,-2.30926389e-14 C46.2555246,-2.39411436e-14 50,3.74447545 50,8.36352 L50,41.63648 C50,46.2555246 46.2555246,50 41.63648,50 L8.36352,50 C3.74447545,50 -3.73695801e-13,46.2555246 -3.78364007e-13,41.63648 L-3.78364007e-13,8.36352 C-3.78929677e-13,3.74447545 3.74447545,-2.22441342e-14 8.36352,-2.30926389e-14 Z" id="bg" fill="#D5FFFC"></path>
+                            <g id="icon" transform="translate(13.000000, 14.000000)" stroke="#02A79D">
+                                <circle id="Oval-9" cx="12" cy="12" r="4"></circle>
+                                <g id="Group-29">
+                                    <ellipse id="Oval-9" cx="2.03125" cy="2.08333333" rx="2.03125" ry="2.08333333"></ellipse>
+                                    <ellipse id="Oval-9" cx="21.96875" cy="2.08333333" rx="2.03125" ry="2.08333333"></ellipse>
+                                    <path d="M14.84375,8.58333333 L20.053446,3.90796514" id="Line-7" stroke-linecap="square"></path>
+                                    <path d="M3.94655401,8.58333333 L9.15625,3.90796514" id="Line-7" stroke-linecap="square" transform="translate(6.551402, 6.245649) scale(-1, 1) translate(-6.551402, -6.245649) "></path>
+                                </g>
+                                <g id="Group-29" transform="translate(12.000000, 19.500000) scale(1, -1) translate(-12.000000, -19.500000) translate(0.000000, 15.000000)">
+                                    <ellipse id="Oval-9" cx="2.03125" cy="2.08333333" rx="2.03125" ry="2.08333333"></ellipse>
+                                    <ellipse id="Oval-9" cx="21.96875" cy="2.08333333" rx="2.03125" ry="2.08333333"></ellipse>
+                                    <path d="M14.84375,8.58333333 L20.053446,3.90796514" id="Line-7" stroke-linecap="square"></path>
+                                    <path d="M3.94655401,8.58333333 L9.15625,3.90796514" id="Line-7" stroke-linecap="square" transform="translate(6.551402, 6.245649) scale(-1, 1) translate(-6.551402, -6.245649) "></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
