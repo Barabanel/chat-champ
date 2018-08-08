@@ -223,6 +223,7 @@ a:focus, input:focus, button:focus {
 }
 
 .picture-block img {
+	width: 100%;
 	max-width: 100%;
 	box-sizing: border-box;
 	margin: auto;
@@ -1228,14 +1229,20 @@ div.custom-select:focus {
 }
 
 .image-testimonial {
-    display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+    align-self: center;
     margin: auto;
 }
 
 .image-testimonial img {
+	width: 100%;
 	max-width: 100%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 .testimonial-container {
